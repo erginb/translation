@@ -1,0 +1,28 @@
+{
+  "name": "translation",
+  "version": "1.0.2",
+  "description": "Translation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/erginb/translation.git"
+   },
+    "keywords": [
+    "tanslation",
+    "ai",
+    "tea_protocoll"
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "erginb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erginb/translation/issues"
+  },
+  "homepage": "https://github.com/erginb/translation#readme"
+}
